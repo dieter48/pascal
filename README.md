@@ -1,2 +1,1 @@
-# pascal
-Мои решения задач на acmp.ru а также примеры кода
+<a href=acmp.ru>Acmp</a>
