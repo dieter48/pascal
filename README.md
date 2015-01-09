@@ -1,2 +1,2 @@
 <a href=http://www.acmp.ru>Acmp</a>
-<p>Серега ло.
+<h1>Серега ло.</h1>
